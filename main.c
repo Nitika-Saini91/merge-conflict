@@ -10,5 +10,6 @@ Initial Security()
  //Sample Code
 }
 function1
+function2
 
 }
